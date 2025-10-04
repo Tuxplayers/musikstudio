@@ -1,0 +1,4 @@
+# MusicMake Python Requirements
+# TUXPLAYER Edition v1.0.0
+
+mido>=1.2.10

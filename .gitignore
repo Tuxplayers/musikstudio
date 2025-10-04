@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+MusicMake_Projects/
+*.mid
+*.wav
+*.mp3
+.vscode/
+.idea/
+*.swp
+.DS_Store
+.directory
+archiv_*.sh
