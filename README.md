@@ -1,4 +1,4 @@
-pip install mido # 🎸 MusicMake - Linux Music Production Studio Manager 
+# 🎸 MusicMake - Linux Music Production Studio Manager 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Platform: Linux](https://img.shields.io/badge/Platform-Linux-blue.svg)](https://www.linux.org/)
